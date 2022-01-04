@@ -5,6 +5,7 @@
 5th commit (after branch feature 2)
 6th commit (after branch feature 3)
 7th commit (after branch feature 4)
+8th commit (after branch feature 5)
 ---
 feature2 - 1st commit
 ----
