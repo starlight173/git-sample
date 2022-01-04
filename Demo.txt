@@ -3,4 +3,5 @@
 3rd commit
 4th commit (after branch feature 1)
 5th commit (after branch feature 2)
+6th commit (after branch feature 3)
 feature2 - 1st commit
