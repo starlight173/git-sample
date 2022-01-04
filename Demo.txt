@@ -4,3 +4,5 @@
 4th commit (after branch feature 1)
 5th commit (after branch feature 2)
 feature2 - 1st commit
+----
+feature3 - 1st commit
