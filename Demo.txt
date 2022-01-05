@@ -13,6 +13,7 @@ commit (after branch feature 9)
 commit (after branch feature 10)
 commit (after branch feature 11)
 commit (after branch feature 12)
+commit (after branch feature 13)
 ---
 feature2 - 1st commit
 ----
