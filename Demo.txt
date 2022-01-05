@@ -19,3 +19,5 @@ feature4 - 1st commit
 feature6 - 1st commit
 ----
 feature7 - 1st commit
+----
+feature8 - 1st commit
