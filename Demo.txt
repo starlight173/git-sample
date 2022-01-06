@@ -19,6 +19,7 @@ commit (after branch feature 15)
 commit 16
 commit 18
 commit 20
+commit 21
 ---
 feature2 - 1st commit
 ----
