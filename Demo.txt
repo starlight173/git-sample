@@ -73,3 +73,7 @@ Feature 1 - a
 
 ---
 Feature dev 2
+
+--- Feature 2
+Feature 2
+Feature 2 - a
