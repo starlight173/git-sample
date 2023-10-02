@@ -65,8 +65,11 @@ feature22 - 2nd commit
 feature23 - 1st commit
 
 ---
-Feature dev
+Feature dev 1
 
 --- Feature
 Feature 1
 Feature 1 - a
+
+---
+Feature dev 2
