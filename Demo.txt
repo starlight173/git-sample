@@ -80,3 +80,7 @@ Feature 2 - a
 
 ---
 Feature dev 3
+
+--- Feature 3
+Feature 3
+Feature 3 - a
